@@ -19,9 +19,9 @@ To check if your computer is a 32-bit or 64-bit operater, click on the windows b
 
 ![Alt text](https://webcheerz.com/wp-content/uploads/2017/04/Screenshot_2.png "Add python to path")
 
-Install pytube and tkinter by going to your terminal (spotlight search for "terminal" on mac, press "windows+r" and then type `cmd` for windows) and type `pip3 install pytube` and `pip3 install tkinter`\
-\
+Install pytube and tkinter by going to your terminal (spotlight search for "terminal" on mac, press "windows+r" and then type `cmd` for windows) 
 
-![Alt text](image2.png "Press Windows+R")
 
+![Alt text](image2.png "Press Windows+R")\
+![Alt text](image3.png "Search for terminal")\
 
