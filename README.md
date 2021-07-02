@@ -25,3 +25,5 @@ Install pytube and tkinter by going to your terminal (spotlight search for "term
 ![Alt text](image2.png "Press Windows+R")\
 ![Alt text](image3.png "Search for terminal")\
 
+Then, type `pip3 install tkinter` and `pip3 install pytube`, and you are all set!
+
