@@ -7,8 +7,9 @@ What you need to install:
 `tkinter`
 
 Install python3:
-https://python.org/downlaods
-**MAKE SURE YOU CLICK ON THE "ADD PYTHON TO PATH" BUTTON WHEN INSTALL ON WINDOWS!**
+https://python.org/downlaods \
+**MAKE SURE YOU CLICK ON THE "ADD PYTHON TO PATH" BUTTON WHEN INSTALL ON WINDOWS!**\
+![Alt text](https://webcheerz.com/wp-content/uploads/2017/04/Screenshot_2.png "Add python to path")
 
 Install pytube and tkinter by going to your terminal (spotlight search for "terminal" on mac, press "windows+r" and then type `cmd` for windows) and type `pip3 install pytube` and `pip3 install tkinter`
 
