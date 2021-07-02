@@ -3,7 +3,7 @@
 Download ANY YouTube video to your device to watch online with python!
 What you need to install:
 `python3 (version 3.5 or higher)` \
-`pytube`\
+`pytube`
 
 
 Install python3:
@@ -28,3 +28,5 @@ Install pytube and tkinter by going to your terminal (spotlight search for "term
 Then, type `pip3 install pytube`, and you are all set!\
 
 ![Alt text](image4.png "Type pip3 install pytube")\
+
+Lastly, go to your notepad and paste in the code from `youtubedownloader.py` and change the file extension from `.txt` to `.py`. Save it and open the file. BOOM! you can downlaod any YouTube video now!
