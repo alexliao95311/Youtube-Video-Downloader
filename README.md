@@ -4,7 +4,7 @@ Download ANY YouTube video to your device to watch online with python!
 What you need to install:
 `python3 (version 3.5 or higher)` \
 `pytube`\
-`tkinter`
+
 
 Install python3:
 https://python.org/downlaods \
@@ -25,5 +25,6 @@ Install pytube and tkinter by going to your terminal (spotlight search for "term
 ![Alt text](image2.png "Press Windows+R")\
 ![Alt text](image3.png "Search for terminal")\
 
-Then, type `pip3 install tkinter` and `pip3 install pytube`, and you are all set!
+Then, type `pip3 install pytube`, and you are all set!\
 
+![Alt text](image4.png "Type pip3 install pytube")\
